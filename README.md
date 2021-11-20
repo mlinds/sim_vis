@@ -6,3 +6,5 @@ Class notes and assignments repository
 **DUE NOVEMBER 19**
 
 [Assignment 1 notebook](assignment1/A1.ipynb)
+
+## Assignment 2
