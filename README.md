@@ -11,6 +11,6 @@ Class notes and assignments repository
 [Assignment 2 Notebook](assignment2/Assignment2Template.ipynb)
 
 ## Assigment 3
-**DUE December 17**
+**DUE December 14**
 
 [Assignment 3 notebook](assignment3/A3_ML.ipynb)
